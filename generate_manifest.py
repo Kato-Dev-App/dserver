@@ -3,7 +3,7 @@
 
 Usage:
     generate_manifest.py --path . --loader neoforge --version 1.0.1 \\
-        --game-version 1.21.1 --base-url https://url/ \\
+        --game-version 1.21.1 --base-url https://glauncher.void-key.app/pack/ \\
         --output manifest.json
 """
 import argparse

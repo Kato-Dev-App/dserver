@@ -5,13 +5,6 @@
   "files": {
     "mods": [
       {
-        "id": "DistantHorizonsApi-7.2.0",
-        "name": "DistantHorizonsApi-7.2.0.jar",
-        "version": "unknown",
-        "sha256": "eda4a8bec214b12a931fe82ab16478e064b4b491bf7c19ed2e4a9b1a03789d21",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/DistantHorizonsApi-7.2.0.jar"
-      },
-      {
         "id": "ancientvillages",
         "name": "ancientvillages-forge-1.20.1-0.0.4.jar",
         "version": "0.0.4",
@@ -152,13 +145,6 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/displaydelight-1.7.0.jar"
       },
       {
-        "id": "distanthorizons",
-        "name": "DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
-        "version": "3.3.3",
-        "sha256": "a537a71171d935540b56b7598d0de2c106f6f5026336c713d89a1d9ea0ea14e3",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar"
-      },
-      {
         "id": "doapi",
         "name": "letsdo-API-forge-1.2.15-forge.jar",
         "version": "1.2.15",
@@ -180,39 +166,11 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/dragonsofberk-1.20.1-1.2.3.jar"
       },
       {
-        "id": "dynamiclights",
-        "name": "dynamiclights-1.20.1.3 (1).jar",
-        "version": "1.20.1.3",
-        "sha256": "ca71e97a0fe2d9ac760cdb326426c7af1fa1e161562290fab50b1993785af6d7",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/dynamiclights-1.20.1.3%20%281%29.jar"
-      },
-      {
         "id": "embeddium",
         "name": "embeddium-0.3.31+mc1.20.1.jar",
         "version": "0.3.31+mc1.20.1",
         "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/embeddium-0.3.31%2Bmc1.20.1.jar"
-      },
-      {
-        "id": "emf_compat_core",
-        "name": "emf_compat_core_forge_1.20.1_2.3.2.jar",
-        "version": "2.3.2",
-        "sha256": "e77128f69644be3c137e8c9c78b4ec0db274fb2e5e395a49c80463cfeac8222a",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/emf_compat_core_forge_1.20.1_2.3.2.jar"
-      },
-      {
-        "id": "entity_model_features",
-        "name": "entity_model_features-3.3.12-1.20.1-forge.jar",
-        "version": "3.3.12",
-        "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/entity_model_features-3.3.12-1.20.1-forge.jar"
-      },
-      {
-        "id": "entity_texture_features",
-        "name": "entity_texture_features-7.2.7-1.20.1-forge.jar",
-        "version": "7.2.7",
-        "sha256": "9a1a335b50026c1a2770254cd5f89f2f5c85f35a0a8ffeb1de9663c8b356c588",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/entity_texture_features-7.2.7-1.20.1-forge.jar"
       },
       {
         "id": "entityculling",
@@ -474,13 +432,6 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.3.jar"
       },
       {
-        "id": "particular",
-        "name": "particular-1.20.1-Forge-1.5.7.jar",
-        "version": "1.5.7",
-        "sha256": "b6689b09b75a54690797308f853969e083b8ae89343676163ddb03bd0755b079",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/particular-1.20.1-Forge-1.5.7.jar"
-      },
-      {
         "id": "passablefoliage",
         "name": "PassableFoliage-1.20.1-forge-8.2.1.jar",
         "version": "8.2.1",
@@ -591,13 +542,6 @@
         "version": "0.1.5-1.20.1",
         "sha256": "a50357b4982132522f48afc6fa625c453359390f8180e4c72f6288ecd46dee3c",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/SimplyTooltips-forge-0.1.5-1.20.1.jar"
-      },
-      {
-        "id": "sodiumdynamiclights",
-        "name": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-        "version": "1.0.9",
-        "sha256": "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/low/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
       },
       {
         "id": "t_and_t",

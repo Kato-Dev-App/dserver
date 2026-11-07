@@ -1,2 +1,0 @@
-# dserver
-coleccion de manifiesto
