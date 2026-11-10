@@ -68,11 +68,25 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/balm-forge-1.20.1-7.3.44.jar"
       },
       {
+        "id": "bettervillage",
+        "name": "bettervillage-forge-1.20.1-3.3.1-all.jar",
+        "version": "3.3.1",
+        "sha256": "efe7ea20a6eb46417d65db362523c3613ce49db412eaad51930e29f0335a4d39",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/bettervillage-forge-1.20.1-3.3.1-all.jar"
+      },
+      {
         "id": "biomeswevegone",
         "name": "Oh-The-Biomes-Weve-Gone-Forge-1.8.2.jar",
         "version": "1.8.2",
         "sha256": "38174a9aaf8b087f9f264d0fcd43f3c3180238d7732c7d65582e4bcedaea01d3",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.2.jar"
+      },
+      {
+        "id": "bookofdragons",
+        "name": "bookofdragons-1.4.1-1.20.1.jar",
+        "version": "1.4.1-1.20.1",
+        "sha256": "96d81d36e8a957631485cfcbcdb089b44c693e0e1bcf057343722902c1855fb7",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/bookofdragons-1.4.1-1.20.1.jar"
       },
       {
         "id": "casualswing",
@@ -87,6 +101,13 @@
         "version": "2.6.3",
         "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/citadel-2.6.3-1.20.1.jar"
+      },
+      {
+        "id": "clientsort",
+        "name": "clientsort-forge-3.82.2+1.20.1.jar",
+        "version": "3.82.2",
+        "sha256": "08eabd191b883840919c29abfe1c23f4c81379de5a1195b2465fdace9208be43",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/clientsort-forge-3.82.2%2B1.20.1.jar"
       },
       {
         "id": "cluttered",
@@ -110,18 +131,32 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/Corgilib-Forge-1.20.1-4.0.3.6.jar"
       },
       {
+        "id": "corpse",
+        "name": "corpse-forge-1.20.1-1.0.23.jar",
+        "version": "1.20.1-1.0.23",
+        "sha256": "9f639204588512abe767bb5c2ff97d41f50352af916de939ac8029c95d57ae7b",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/corpse-forge-1.20.1-1.0.23.jar"
+      },
+      {
+        "id": "cosmeticarmorreworked",
+        "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+        "version": "1.20.1-v1a",
+        "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+      },
+      {
+        "id": "cosmeticcorpsecompat",
+        "name": "cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar",
+        "version": "4.0.1",
+        "sha256": "73c432e1fe631a274ef8f2770b97d172d837f4ac58dc076e95536a27ad06e186",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar"
+      },
+      {
         "id": "cristellib",
         "name": "cristellib-1.1.6-forge.jar",
         "version": "1.1.6",
         "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/cristellib-1.1.6-forge.jar"
-      },
-      {
-        "id": "croptopia",
-        "name": "Croptopia-1.20.1-FORGE-4.0.1.jar",
-        "version": "${file.jarVersion}",
-        "sha256": "bbd35cbdbe8b9d20a70ab79a42781a82f19f51de068861c431879becbce66d28",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/Croptopia-1.20.1-FORGE-4.0.1.jar"
       },
       {
         "id": "curios",
@@ -145,13 +180,6 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/tw-decorative-food-1.20.1-2.0.1-forge.jar"
       },
       {
-        "id": "displaydelight",
-        "name": "displaydelight-1.7.0.jar",
-        "version": "1.7.0",
-        "sha256": "56d3f0dad434982895963f3eaa8b65f1c21c7f1b1ef8ed8ab1b42458a01464d6",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/displaydelight-1.7.0.jar"
-      },
-      {
         "id": "distanthorizons",
         "name": "DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
         "version": "3.3.3",
@@ -171,13 +199,6 @@
         "version": "1.7.1",
         "sha256": "00f20efea12ea981b8d75e257a136c08e0c00c324554e69cf20193376c942e97",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/domesticationinnovation-1.7.1-1.20.1.jar"
-      },
-      {
-        "id": "dragonsofberk",
-        "name": "dragonsofberk-1.20.1-1.2.3.jar",
-        "version": "1.2.3",
-        "sha256": "a82470bfd2375c69f00ca4dc838c8fd10df0c355d3758ee6333c86b9d1687776",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/dragonsofberk-1.20.1-1.2.3.jar"
       },
       {
         "id": "dynamiclights",
@@ -250,6 +271,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/fantasticwings-v20.1.2-mc1.20.1%2Bforge.jar"
       },
       {
+        "id": "fantasy_armor",
+        "name": "fantasy-armor-1.3.1-1.20.1-forge.jar",
+        "version": "1.3.1-1.20.1",
+        "sha256": "fb3414a098ff56c4dcc3d7e734183c3f064ef7e74c6e470d3a04ee435583bac8",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/fantasy-armor-1.3.1-1.20.1-forge.jar"
+      },
+      {
         "id": "farm_and_charm",
         "name": "letsdo-farm_and_charm-forge-1.0.14.jar",
         "version": "1.0.14",
@@ -264,6 +292,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/FarmersDelight-1.20.1-1.3.4.jar"
       },
       {
+        "id": "faunaengine",
+        "name": "faunaengine-1.1-1.20.1-forge.jar",
+        "version": "1.1",
+        "sha256": "b48e4dbf8db68bfebf1611cb25cddf3a7bc071284242cf6af39403e08ff315b0",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/faunaengine-1.1-1.20.1-forge.jar"
+      },
+      {
         "id": "faunify",
         "name": "faunify-forge-1.20.1-1.3.3.jar",
         "version": "1.3.3",
@@ -276,6 +311,20 @@
         "version": "6.0.1",
         "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/ferritecore-6.0.1-forge.jar"
+      },
+      {
+        "id": "fish_n_ships",
+        "name": "fish_n_ships-forge-1.20.1-1.1.1.jar",
+        "version": "1.1.1",
+        "sha256": "05a1a3bb99a23ff0ae707630f1c83780cf42e3f0d19bb5aafa9e62aa3e4fa589",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/fish_n_ships-forge-1.20.1-1.1.1.jar"
+      },
+      {
+        "id": "fishermens_trap",
+        "name": "fishermens_trap-2.1.4.jar",
+        "version": "2.1.4",
+        "sha256": "e305aeb33c236862b816d880be11a1faabaf5937035bb31a625425b267889e66",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/fishermens_trap-2.1.4.jar"
       },
       {
         "id": "food",
@@ -327,6 +376,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
       },
       {
+        "id": "hapi",
+        "name": "hapi-forge-1.20.1-1.1.3.jar",
+        "version": "1.1.3",
+        "sha256": "5981b3f8319969465dc168d28c6f92fd87cc7733d500917be8bfda22ab9732f9",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/hapi-forge-1.20.1-1.1.3.jar"
+      },
+      {
         "id": "hexerei",
         "name": "hexerei-0.4.2.3.jar",
         "version": "1.20.1-0.4.2.3",
@@ -348,6 +404,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/immersivelanterns-forge-1.0.6-1.20.1.jar"
       },
       {
+        "id": "jei",
+        "name": "jei-1.20.1-forge-15.74.0.234.jar",
+        "version": "15.74.0.234",
+        "sha256": "0bbd27c886b974be6906fe16f5e5e3ace8a87350b32e4361cca0213df1e7e86e",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/jei-1.20.1-forge-15.74.0.234.jar"
+      },
+      {
         "id": "kaleidoscope_cookery",
         "name": "kaleidoscopecookery-1.6.0-forge+mc1.20.1.jar",
         "version": "1.6.0-forge+mc1.20.1",
@@ -367,6 +430,13 @@
         "version": "unknown",
         "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/kotlinforforge-4.12.0-all.jar"
+      },
+      {
+        "id": "libraryferret",
+        "name": "libraryferret-forge-1.20.1-4.0.0.jar",
+        "version": "4.0.0",
+        "sha256": "66a151ed397904135c0109ce390bee93961ef7dd329a2d66860ef5f27adff335",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/libraryferret-forge-1.20.1-4.0.0.jar"
       },
       {
         "id": "mcwbridges",
@@ -468,10 +538,10 @@
       },
       {
         "id": "ohthetreesyoullgrow",
-        "name": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.3.jar",
-        "version": "1.7.3",
-        "sha256": "5817a5ff8439515b6413ab655cc7d64ecd3d24d4ac5a8605ae34fd73ec8be4cf",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.3.jar"
+        "name": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.4.jar",
+        "version": "1.7.4",
+        "sha256": "f44112ed556dcde6fd01cb7f4ae8fa518e4ff167ba3554465410198dbcd27188",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.4.jar"
       },
       {
         "id": "particular",
@@ -584,6 +654,13 @@
         "version": "1.70.2-1.20.1",
         "sha256": "642e385ffda914f1b9411f0a457fe5fb5e05aa160dc44392dec9a549c2bcec21",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar"
+      },
+      {
+        "id": "simplytents",
+        "name": "simplytents-5.0-1.20.1.forge.jar",
+        "version": "5.0-1.20.1.forge",
+        "sha256": "3b8e2c3ca0b06f5dbabfe8bb2a2f7e84da8bf5e70d6a030c4b91981b99946a0e",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/dserver/main/full/mods/simplytents-5.0-1.20.1.forge.jar"
       },
       {
         "id": "simplytooltips",
